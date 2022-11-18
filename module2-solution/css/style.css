@@ -28,7 +28,7 @@
   background-color: #999099;
   margin:15px;
   padding:20px;
-  border:2px solid #002;
+  border:1px solid #002;
 }
 .item p{
   margin-top:15px;
@@ -39,7 +39,7 @@
 .itemt{
 font-size: 22px;
   width: 160px;
-  border: 2px solid black;
+  border: 1px solid black;
   font-weight: bold;
   text-align: center;
   float: right; top :0; right: 0; margin: 0;
